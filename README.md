@@ -16,7 +16,7 @@
 ### 4. Programming Language: Python
 
 ### 5. Reference:
-[OpenAI GPT-3 CHAT BOT 🤖 within Streamlit Python Web app 🚀| Python @OpenAI​ @streamlitofficial](https://www.youtube.com/watch?v=BHwVRI9N8B0)
-[How to Hide Password and API keys in Streamlit Share](https://www.youtube.com/watch?v=oWxAZoyyzCc)
+ - [OpenAI GPT-3 CHAT BOT 🤖 within Streamlit Python Web app 🚀| Python @OpenAI​ @streamlitofficial](https://www.youtube.com/watch?v=BHwVRI9N8B0)
+ - [How to Hide Password and API keys in Streamlit Share](https://www.youtube.com/watch?v=oWxAZoyyzCc)
 
 
