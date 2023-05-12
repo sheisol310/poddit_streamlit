@@ -29,7 +29,7 @@ def generate_script(content):
                        f"it like dialogue. The script should read like a conversation between the characters. The "
                        f"response first mentions the title and then the podcast script.",
                 temperature=0.9,
-                max_tokens=4000,
+                max_tokens=3024,
                 top_p=1,
                 frequency_penalty=0,
                 presence_penalty=0,
